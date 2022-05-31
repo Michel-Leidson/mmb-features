@@ -1,6 +1,6 @@
 # Monitor Missed Blocks Application
 
-MMB is an automation that analyzes and alerts lost blocks by cosmos blockchain network validators.
+MMB is an automation that analyzes and alerts missed blocks by cosmos blockchain network validators.
 
 The application runs on Node.js and queries data from validators in a REST or GRPC query from a validator node on the network.
 
